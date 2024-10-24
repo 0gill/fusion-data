@@ -1,7 +1,10 @@
-# fusion-data
-Data-Object Java Core of Fusi0n.  Has your DATA-beans + keys covered.
-To/Form JSON. To/From JDBC. Sqlite. integral.
-Init-->Write-->Readonly state transition to support chained set-methods construction, and use in functional programming.
+# fusion-data (Data-Object Java Core of Zer0g corporation's Fusion XXX Platform)
+
+Has your DATA-beans + keys covered.
+Bean To/Form JSON.  Annotated field-value constraints (min/max length, regex, etc.)
+Init-->Write-->Readonly bean-state transition to support factory-method construction.
+Bean-immutability guarantee via readonly end-state and no data-reference
+ *     leakage.and use in functional programming.
 
 Example::::::::
 
