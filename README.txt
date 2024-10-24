@@ -3,8 +3,7 @@
 Has your DATA-beans + keys covered.
 Bean To/Form JSON.  Annotated field-value constraints (min/max length, regex, etc.)
 Init-->Write-->Readonly bean-state transition to support factory-method construction.
-Bean-immutability guarantee via readonly end-state and no data-reference
- *     leakage.and use in functional programming.
+Bean-immutability guarantee via readonly end-state and no data-reference leakage.
 
 Example::::::::
 
