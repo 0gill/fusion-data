@@ -1,6 +1,6 @@
 # fusion-data (Data-Object Java Core of Zer0g corporation's Fusion XXX Platform)
 
-!!! CAUTION: BETA version.  Fit for playing and r&d purposes... not yet approved for production use.  !!!
+!!! CAUTION: BETA version. !!!
 
 Has your DATA-beans + keys covered.
 Bean To/Form JSON.  Annotated field-value constraints (min/max length, regex, etc.)
